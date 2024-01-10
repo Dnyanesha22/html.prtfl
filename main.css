@@ -1,0 +1,77 @@
+.boss-bg {
+  width: 750px;
+  height: 1200px;
+  border-style: solid;
+  border-width: 5px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #d7f0f5;
+  
+}
+.name {
+  font-family: Roboto;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.designation {
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.div2-heading {
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  font-weight: 600;
+  color: red;
+}
+.about {
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  color: blue;
+}
+.about1 {
+  font-family: Roboto;
+  font-size: 13px;
+  padding-left: 10px;
+}
+.year-cgpa {
+  padding: 10px;
+  font-family: Roboto;
+  font-size: 5px;
+  font-weight: bold;
+}
+.project-heading {
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  font-weight: 600;
+  color: brown;
+}
+.div2-heading-sub {
+  font-family: Roboto;
+  font-size: 10px;
+  padding-left: 10px;
+  
+}
+.project-div {
+  
+}
+.year {
+  font-size: 25px;
+  font-family: Roboto;
+  
+}
+}
+.project-info {
+  width: 40vw;
+  
+}
+.education-div {
+ background-color:#f7fafa;
+ border-radius: 20px;
+}
+}
